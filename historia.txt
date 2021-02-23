@@ -2,4 +2,6 @@ Mi nombre es David Vivanco
 
 Tengo 30 años y nací en encuador.
 
-Mi perro es Sebastian .
+Mi perro es Sebastian.
+
+Tengo un titulo en Tecnólogia en Análisis de Sistemas Informáticos.
