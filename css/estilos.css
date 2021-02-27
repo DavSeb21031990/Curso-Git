@@ -45,8 +45,23 @@ body
 {
     font-size: 20px;
 }
+
 #post
 {
     background: white;
     padding: 1em;
+}
+
+footer{
+    margin: 0 auto;
+}
+
+footer > p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 1em;
+    font-style: italic;
+    border-style: solid;
+    border-style: 1px;
+    border-color: #333;
 }
